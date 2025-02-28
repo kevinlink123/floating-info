@@ -1,0 +1,1 @@
+export const SHRINK_MAINWINDOW_HEIGHT = 100;

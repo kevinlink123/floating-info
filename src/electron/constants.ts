@@ -1,0 +1,4 @@
+export const MAINWINDOW_WIDTH = 300;
+export const MAINWINDOW_HEIGHT = 700;
+
+export const SHRINK_MAINWINDOW_HEIGHT = 100;
